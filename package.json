@@ -623,7 +623,7 @@
       },
       {
         "command": "ShortcutMenuBar.userButton01",
-        "title": "user action 1",
+        "title": "Start DD Services",
         "category": "ShortcutMenuBar",
         "icon": {
           "light": "images/userButton01_light.svg",
@@ -632,7 +632,7 @@
       },
       {
         "command": "ShortcutMenuBar.userButton02",
-        "title": "user action 2",
+        "title": "Stop DD Services",
         "category": "ShortcutMenuBar",
         "icon": {
           "light": "images/userButton02_light.svg",
@@ -641,7 +641,7 @@
       },
       {
         "command": "ShortcutMenuBar.userButton03",
-        "title": "user action 3",
+        "title": "Quick Commands Menu",
         "category": "ShortcutMenuBar",
         "icon": {
           "light": "images/userButton03_light.svg",
